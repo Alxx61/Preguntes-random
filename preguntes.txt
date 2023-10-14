@@ -1,0 +1,16 @@
+Quins són els avantatges i desavantatges dels actuadors hidràulics en comparació amb els pneumàtics i els elèctrics?
+Quines són les aplicacions més comunes dels actuadors rotatius?
+Com puc determinar quin tipus d'actuador és el millor per a la meva aplicació específica?
+Què són els pistons de simple efecte i com funcionen?
+Què és un robot?
+Què és la locomoció?
+Què és una articulació?
+Què és un grau de llibertat?
+Què és un llaç obert i per què és arriscat?
+Quines són les funcions principals d'un circuit de control?
+Com es pot utilitzar un relé programable en un sistema elèctric?
+Quina és la diferència entre un sensor analògic i un sensor digital?
+Què són els sensors?
+Per què són importants els sensors en la tecnologia moderna?
+Quins són alguns exemples de sensors comuns?
+Com s'utilitzen els sensors en aplicacions pràctiques
